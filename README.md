@@ -1,4 +1,4 @@
-# Energy Consumption Fraud Detection
+# ANOMALY DETECTION SYSTEM FOR COMBATING ELECTRICITY FRAUD USING MACHINE LEARNING ALGORITHMS
 
 ## Overview
 Energy Consumption Fraud Detection is a machine learning project aimed at detecting fraudulent energy consumers using predictive modeling techniques. The project involves preprocessing energy consumption data, training machine learning models, and deploying the models for real-time fraud detection.
